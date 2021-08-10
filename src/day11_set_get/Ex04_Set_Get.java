@@ -18,5 +18,4 @@ public class Ex04_Set_Get {
 		this.age = age;
 	}
 	
-	
 }
